@@ -7,7 +7,7 @@ Bem-vindo ao repositório dedicado ao projeto "Análise de Sentimentos com Azure
 - Acessar: https://language.cognitive.azure.com/home
 - Classify text
 - Analyze sentiment and mine opinions
-- Utilizarei um texto criado por outra IA para testar, deixarei um arquivo txt dele na pasta input
+- Utilizarei um texto criado por outra IA para testar, deixarei um arquivo txt dele na pasta [Input](https://github.com/lucslima96/analise_de_sentimentos_languagestudio/tree/main/Inputs)
 ![image](https://github.com/lucslima96/analise_de_sentimentos_languagestudio/assets/128159917/6310ce38-2872-471c-b1a0-109931c9db83)
 ![image](https://github.com/lucslima96/analise_de_sentimentos_languagestudio/assets/128159917/389c8182-0de9-4ed0-b5c7-a147552d95f3)
 
